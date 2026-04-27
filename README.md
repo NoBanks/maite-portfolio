@@ -20,15 +20,15 @@ Three short deck videos with original NoBanks music.
 
 **The locked diary model:**
 
-<!-- DROP-VIDEO-1 -->
+https://github.com/user-attachments/assets/ee3b2c3e-04e1-4715-becc-1654801e6ffb
 
 **The illuminated vault** — how MAITE remembers without harvesting:
 
-<!-- DROP-VIDEO-2 -->
+https://github.com/user-attachments/assets/94c1d88c-d4e8-4de2-bf96-5f9ffe0157b0
 
 **Companion mode** — private accountability without surveillance:
 
-<!-- DROP-VIDEO-3 -->
+https://github.com/user-attachments/assets/809da2e4-f3f5-48fe-a476-6f5592be438b
 
 ---
 
