@@ -18,15 +18,15 @@ Built for the people who tried journaling apps and quit because every entry felt
 
 The locked diary model:
 
-https://github.com/NoBanks/maite-portfolio/raw/main/assets/videos/maite-diary.mp4
+<video src="https://github.com/NoBanks/maite-portfolio/raw/main/assets/videos/maite-diary.mp4" controls width="100%"></video>
 
 The illuminated vault, how MAITE remembers without harvesting:
 
-https://github.com/NoBanks/maite-portfolio/raw/main/assets/videos/maite-vault.mp4
+<video src="https://github.com/NoBanks/maite-portfolio/raw/main/assets/videos/maite-vault.mp4" controls width="100%"></video>
 
 Companion mode, private accountability without surveillance:
 
-https://github.com/NoBanks/maite-portfolio/raw/main/assets/videos/maite-companion.mp4
+<video src="https://github.com/NoBanks/maite-portfolio/raw/main/assets/videos/maite-companion.mp4" controls width="100%"></video>
 
 ---
 
