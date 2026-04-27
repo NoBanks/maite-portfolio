@@ -16,11 +16,7 @@ Built for the people who tried journaling apps and quit because every entry felt
 
 ## See it in 30 seconds
 
-Three short deck videos with original NoBanks music.
-
-**The locked diary model:**
-
-https://github.com/user-attachments/assets/ee3b2c3e-04e1-4715-becc-1654801e6ffb
+Two short deck videos with original NoBanks music.
 
 **The illuminated vault** — how MAITE remembers without harvesting:
 
