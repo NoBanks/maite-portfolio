@@ -16,13 +16,19 @@ Built for the people who tried journaling apps and quit because every entry felt
 
 ## See it in 30 seconds
 
-Three short deck videos with original music:
+Three short deck videos with original NoBanks music. Click any thumbnail to play.
 
-- ▶️ [The locked diary model](./assets/videos/maite-diary.mp4)
-- ▶️ [The illuminated vault — how MAITE remembers without harvesting](./assets/videos/maite-vault.mp4)
-- ▶️ [Companion mode — private accountability without surveillance](./assets/videos/maite-companion.mp4)
+[![The locked diary model](./assets/videos/maite-diary-poster.jpg)](./assets/videos/maite-diary.mp4)
 
-*(Inline-playable embeds coming soon — GitHub requires videos uploaded through their web editor for inline rendering.)*
+**The locked diary model**
+
+[![The illuminated vault](./assets/videos/maite-vault-poster.jpg)](./assets/videos/maite-vault.mp4)
+
+**The illuminated vault** — how MAITE remembers without harvesting.
+
+[![Companion mode](./assets/videos/maite-companion-poster.jpg)](./assets/videos/maite-companion.mp4)
+
+**Companion mode** — private accountability without surveillance.
 
 ---
 
