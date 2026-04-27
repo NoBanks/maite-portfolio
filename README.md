@@ -18,11 +18,11 @@ Built for the people who tried journaling apps and quit because every entry felt
 
 Two short deck videos with original NoBanks music.
 
-**The illuminated vault** — how MAITE remembers without harvesting:
+**The illuminated vault**, how MAITE remembers without harvesting:
 
 https://github.com/user-attachments/assets/94c1d88c-d4e8-4de2-bf96-5f9ffe0157b0
 
-**Companion mode** — private accountability without surveillance:
+**Companion mode**, private accountability without surveillance:
 
 https://github.com/user-attachments/assets/809da2e4-f3f5-48fe-a476-6f5592be438b
 
@@ -42,9 +42,9 @@ https://github.com/user-attachments/assets/809da2e4-f3f5-48fe-a476-6f5592be438b
 
 Three angles on what MAITE is and why the architecture matters:
 
-- [Architectural Privacy](./assets/slides/MAITE%20Architectural%20Privacy.pdf) — the engineering behind the locked-diary model
-- [The Illuminated Vault](./assets/slides/MAITE%20The%20Illuminated%20Vault.pdf) — how MAITE remembers what you need without training on you
-- [Private Accountability](./assets/slides/MAITE%20Private%20Accountability.pdf) — companion mode for solo founders, recovery, anyone with a story they need to keep their own
+- [Architectural Privacy](./assets/slides/MAITE%20Architectural%20Privacy.pdf), the engineering behind the locked-diary model
+- [The Illuminated Vault](./assets/slides/MAITE%20The%20Illuminated%20Vault.pdf), how MAITE remembers what you need without training on you
+- [Private Accountability](./assets/slides/MAITE%20Private%20Accountability.pdf), companion mode for solo founders, recovery, anyone with a story they need to keep their own
 
 ---
 
